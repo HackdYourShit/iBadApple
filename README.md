@@ -7,11 +7,11 @@ Contact :[Twitter](https://twitter.com/ImAdderally)
 
 **CURRENT**
 
-- Bypass setup.
+- Bypass setup. (Iphone 7+ and 8 may experience issues!)
 - Delete MANY iCloud related files.
 - Delete stored passwords on iOS. ( Usually just stored emails )
 - Forever disable auto updates.
-- Power Off.
+- Reboot.
 - Shutdown.
 
 
